@@ -1,4 +1,4 @@
-# Forecasting the demand for labour in Poland using temporal hierarchical models
+# Prognozowanie popytu na pracę w Polsce z wykorzystaniem hierarchicznych modeli szeregów czasowych
 
 Celem pracy jest stworzenie prognozy która wskaże jak będzie zmieniał się
 popyt na pracę w Polsce w latach 2020-2021. Szczególna uwaga została poświęcona
